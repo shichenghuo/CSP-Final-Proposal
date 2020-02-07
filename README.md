@@ -30,6 +30,9 @@ Tetris color|Users tag|Assign random Tetris|
 Poses (x, y position)|Text||
 Score|
 Distance between block/users|
+Sound|
+
+Storyboard description.png
 
 ### What’s going to be hard/ uncertain?
 - Detect the changing of position to change the position of Tetris
