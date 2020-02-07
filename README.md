@@ -23,11 +23,11 @@ Game mechanism options:
 
 Data|Render|Simulation|Event
 -----------|------------|------------|-------------
-Video Size|Different 2 dimensional Tetris|Move position
+Video Size|Different 2 dimensional Tetris|Detect users|Move position
 Tetris size|Scoreboard|Tertris position move|Accomplish goal
 Tetris shape|Effect when users find matched blocks compositions|Change color|
 Tetris color|Users tag|Assign random Tetris|
-Poses (x, y position)|Text|Detect users|
+Poses (x, y position)|Text||
 Score|
 Distance between block/users|
 
