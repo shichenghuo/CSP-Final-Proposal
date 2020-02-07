@@ -1,5 +1,5 @@
 # CSP-Final-Proposal
-Members: Shicheng Huo/Xinjia Pang
+Team members: Shicheng Huo/Xinjia Pang
 ---
 ### Summary
 
