@@ -1,7 +1,7 @@
 # CSP-Final-Proposal
-Shicheng Huo/Xinjia Pang
+Members: Shicheng Huo/Xinjia Pang
 ---
-#### Summary
+### Summary
 
 This project wants to encourage people to communicate and interact with each other through games that required collaboration and walking around the crowd. Today, with the rapid development of technology, we can see that in the cafe, in the bus stations, and in many places, most people choose to use mobile phones to browse information and meet people through the internet. However, in the same space, people have many opportunities to know each other. 
 
@@ -14,12 +14,12 @@ Game mechanism options:
 
 2. When the user finds another user who has matched block compositions, the game mechanics remain the same and the big screen leaderboard is updated.
 
-#### Physical Parts/ Components
+### Physical Parts/ Components
 - Projector
 - Users
 - Webcam
 
-#### Deconstructions/System Diagram
+### Deconstructions/System Diagram
 
 Data|Render|Simulation|Event
 -----------|------------|------------|-------------
@@ -31,7 +31,7 @@ Poses (x, y position)|Text|Detect users|
 Score|
 Distance between block/users|
 
-#### What’s going to be hard/ uncertain?
+### What’s going to be hard/ uncertain?
 - Detect the changing of position to change the position of Tetris
 - How to store/generate a set of different blocks molecule in the project? 
 - How to set the project and link it to the computer?
