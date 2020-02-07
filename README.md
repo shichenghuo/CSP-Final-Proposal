@@ -32,7 +32,7 @@ Score|
 Distance between block/users|
 Sound|
 
-Storyboard description.png
+https://github.com/shichenghuo/CSP-Final-Proposal/blob/master/Storyboard%20description.png
 
 ### What’s going to be hard/ uncertain?
 - Detect the changing of position to change the position of Tetris
